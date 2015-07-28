@@ -15,3 +15,8 @@ Unmute App:
 -----------
 
 AudioHandler.unmuteApp();
+
+Currently Supported Platforms:
+------------------------------
+
+  Android
