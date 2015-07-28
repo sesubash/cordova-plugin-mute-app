@@ -1,0 +1,22 @@
+{
+    "version": "0.1",
+    "name": "cordova-mute-application",
+    "cordova_name": "Cool Plugin",
+    "description": "Cordova Mute and UnMute Application Plugin",
+    "license": "Apache 2.0",
+    "author": "Subash Selvaraj",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sesubash/cordova-plugin-mute-app"
+    },
+    "issue": "",
+    "keywords": [
+        "cordova",
+        "mute application",
+        "unmute application"
+    ],
+    "platforms": [
+        "android",
+    ],
+    "engines": []
+}
