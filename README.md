@@ -1,5 +1,5 @@
 # cordova-plugin-mute-app
-Cordova Mute and UnMute Application Plugin
+Cordova Mute and UnMute sounds of the Application Plugin
 
 Installation:
 -------------
