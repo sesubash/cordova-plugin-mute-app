@@ -11,7 +11,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 public class AudioHandler extends CordovaPlugin {
-public static final String TAG = "Cool Plugin";
+public static final String TAG = "Mute App Plugin";
 /**
 * Constructor.
 */
@@ -25,7 +25,7 @@ public AudioHandler() {}
 	*/
 	public void initialize(CordovaInterface cordova, CordovaWebView webView) {
 		super.initialize(cordova, webView);
-		Log.v(TAG,"Init CordovaPlugin");
+		Log.v(TAG,"Init Plugin");
 	}
 	public boolean execute(final String action, JSONArray args, CallbackContext callbackContext) throws JSONException {
 		// final int duration = Toast.LENGTH_SHORT;
