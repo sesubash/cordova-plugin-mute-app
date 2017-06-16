@@ -16,7 +16,7 @@
         "unmute application"
     ],
     "platforms": [
-        "android",
+        "android"
     ],
     "engines": []
 }
