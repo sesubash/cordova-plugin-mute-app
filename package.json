@@ -1,5 +1,5 @@
 {
-    "version": "0.1",
+    "version": "0.0.1",
     "name": "cordova-mute-application",
     "cordova_name": "Cool Plugin",
     "description": "Cordova Mute and UnMute Application Plugin",
